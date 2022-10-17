@@ -22,25 +22,25 @@ Submit a pull request for discussion
 
 ## Roadmap
 
-- Phase 1 (Microservice 1)
+- Phase 1 (Core service)
   - JWT & SessionID Authentication :heavy_check_mark:
   - Authorization Based on Roles :heavy_check_mark:
   - Database logs :heavy_check_mark:
   - Transaction | CRUD Operations :heavy_check_mark:
   - HTTP Tests :heavy_check_mark:
+  - Swagger Documentation :clock330:
 
-- Phase 2 (Microservice 2, Serverless possibly)
+- Phase 2 (Microservice 1, Serverless possibly)
   - Recover Password :clock330:
   - E-mail Notifications :clock330:
 
 - Phase 3
-  - Swagger Documentation :heavy_minus_sign:
-  - Refactor code and bussiness logic :heavy_minus_sign:
+  - Refactor code and bussiness logic (optional if not needed) :heavy_minus_sign:
   - Start frontend: :heavy_minus_sign:
     - (Microfrontend 1) Landing page (Next js) :heavy_minus_sign:
     - (Microfrontend 2) Administration application (React) :heavy_minus_sign:
     
 - Proposals
-  - (Add to Microservice Core) Reports By Pawn Shop Branch :heavy_minus_sign:
+  - (Add to Core | New microservice) Reports By Pawn Shop Branch :heavy_minus_sign:
   - (New Microservice) Add employee payments :heavy_minus_sign:
   - Mobile App for customers :heavy_minus_sign:
