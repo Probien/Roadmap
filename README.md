@@ -11,6 +11,9 @@
   </p>
 </div>
 
+## Monolith to Microservices
+Probien is a project with the initial purpose of being a monolith and once finished, it will be split into a microservice architecture using GRPC or RabbitMQ
+
 
 ## Lessons Learned
 
@@ -22,7 +25,7 @@ Submit a pull request for discussion
 
 ## Roadmap
 
-- Phase 1 (Core service)
+- Phase 1 (Core service - Monolith)
   - JWT & SessionID Authentication :heavy_check_mark:
   - Authorization Based on Roles :heavy_check_mark:
   - Database logs :heavy_check_mark:
@@ -41,6 +44,7 @@ Submit a pull request for discussion
     - (Microfrontend 2) Administration application (React) :heavy_minus_sign:
     
 - Proposals
-  - (Add to Core | New microservice) Reports By Pawn Shop Branch :heavy_minus_sign:
-  - (New Microservice) Add employee payments :heavy_minus_sign:
+  - (New microservice) Reports By Pawn Shop Branch :heavy_minus_sign:
+  - (New microservice) Add employee payments :heavy_minus_sign:
   - Mobile App for customers :heavy_minus_sign:
+    
