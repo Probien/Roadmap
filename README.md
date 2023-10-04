@@ -18,7 +18,7 @@ Probien is a project with the initial purpose of being a monolith and once finis
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
-First, I had no idea how to structure the project, I come from java and have always used the MVC pattern to build services, then I decided to learn another type of desing so I create this project with domain based approach [(DDD)] (https://airbrake.io/blog/software-design/domain-driven-design) and ports & adapters (Recomendations are welcome).
+First, I had no idea how to structure the project, I come from java and have always used the MVC pattern to build services, then I decided to learn another type of desing so I create this project with domain based approach [(DDD)](https://airbrake.io/blog/software-design/domain-driven-design) and ports & adapters (Recomendations are welcome).
 
 ## Have a proposal? 
 Submit a pull request for discussion
