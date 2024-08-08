@@ -31,17 +31,26 @@ Submit a pull request for discussion
   - Database logs :heavy_check_mark:
   - Transaction | CRUD Operations :heavy_check_mark:
   - HTTP Tests :heavy_check_mark:
-  - Swagger Documentation :clock330:
 
-- Phase 2 (Microservice 1, Serverless possibly)
-  - Recover Password :clock330:
-  - E-mail Notifications :clock330:
+- Phase 2 (Microservices)
+  - Refactor bussiness logic (optional if not needed) :heavy_minus_sign:
+  
+  - System design :clock330:
+  - Discovery service :clock330:
+  - API gateway :clock330:
+  - Authentication service (keycloak or common RBAC database roles) :clock330:
+  - Pawn shop service :clock330:
+  - Payment service :clock330:
+  - Employee service :clock330:
+  - Client service :clock330:
+  - Inventory service :clock330:
+  - Log service :clock330:
+  - E-mail/sms notification service :clock330:
 
 - Phase 3
-  - Refactor code and bussiness logic (optional if not needed) :heavy_minus_sign:
   - Start frontend: :heavy_minus_sign:
-    - (Microfrontend 1) Landing page (Next js) :heavy_minus_sign:
-    - (Microfrontend 2) Administration application (React) :heavy_minus_sign:
+    - (Microfrontend 1) Landing page (Nuxt js) :heavy_minus_sign:
+    - (Microfrontend 2) Administration app (any js framework) :heavy_minus_sign:
     
 - Proposals
   - (New microservice) Reports By Pawn Shop Branch :heavy_minus_sign:
